@@ -19,12 +19,12 @@ export default new Vuex.Store({
             consKey: 'DEVKOIZAI',
             realm: 'test_realm',
             accessToken: '97d7c844b8a8cc7d9768',
-            liveSessionToken: 'fRVPdpJnpT2mosjNqj7w+n2fR1uHOk4fAwmEtW1OTb65z8n8rdqtezFHcrtI2s1HSGst4hznYkwID9vFzGFnHV2h3JsSB0qB55P7x6vFRjMXU9LpYMz6WvFELkB9+L2G8PViME6wekCAcsp+CReYBpQLNHaaZhWzM9Tika+p9KsF8y4nl4U0zr6e6mFLRkiTs3v+ra5FTH7O518X7mHHAbO1NRf/fuk+Z73UDQC7C4qu27eQ6PsiGbG2LEVn8nYHCCbKFe1Xa3+zE8Ysndy+dZImHYE3jZS9bddGqx59rrHMYU5Z7IeptgG9aUzfGPdWUq560s35hE5jVkOIRHadWA=='
+            liveSessionToken: ''
         },
         oauth: {
             requestToken: '',
             verifier: '',
-            tokenSecret: ''
+            tokenSecret: 'ZyKvslalUL9ss6jFIPPMqQnHmbg3kxgqRLkK9xFkDbutNqQfi164Laf1DpOzCiR7gNqD7lXhQITwff0gvXjq2CkHrVxglKALSWWs6uBUbg+NfzxMOOcCCv5BFpEjt/Pr/mJW4srotaQYTDDzGc54/ZMixhXX8CAAeW9ZDcJCCi57fu+s2jAsqzsaR2eAfbZjFYl3GEMpyYJAh5DEh8l4NHHneGnVAg/ZRZafgANc924pCfhQOf5TSsKc9JT48bzJcD/64y/kCTrnD2XCw5BlIL7d2ZrgQjAQ5uGB4aC8zzR2ZSP2S72yhB4ecqCJWFI8j2/nsnxyG3ocd+3rUdSSPg=='
         },
         keys: {
             privateSigningKey: `-----BEGIN PRIVATE KEY-----
